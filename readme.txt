@@ -17,26 +17,26 @@ Installing the plugins is just like installing other WordPress plugins. If you d
 
 Install by Search
 
-    From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
-    Search for 'upcoming-events-lists' a plugin will come called 'Upcoming Events Lists' and Click 'Install Now' and confirm your installation by clicking 'ok'
-    The plugin will download and install. Just click 'Activate Plugin' to activate it.
+* From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
+* Search for 'upcoming-events-lists' a plugin will come called 'Upcoming Events Lists' and Click 'Install Now' and confirm your installation by clicking 'ok'
+* The plugin will download and install. Just click 'Activate Plugin' to activate it.
 
 Install by ZIP File
 
-    From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
-    Select 'Upload' from the set of links at the top of the page (the second link)
-    From here, browse for the zip file included in your plugin titled 'upcoming-events-lists.zip' and click the 'Install Now' button
-    Once installation is complete, activate the plugin to enable its features.
+* From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
+* Select 'Upload' from the set of links at the top of the page (the second link)
+* From here, browse for the zip file included in your plugin titled 'upcoming-events-lists.zip' and click the 'Install Now' button
+* Once installation is complete, activate the plugin to enable its features.
 
 Install by FTP
 
-    Find the directory titles 'upcoming-events-lists' and upload it and all files within to the plugins directory of your WordPress install (WORDPRESS-DIRECTORY/wp-content/plugins/) [e.g. http://www.yourdomain.com/wp-content/plugins/
-    From your WordPress dashboard, choose 'Installed Plugins' option under the 'Plugins' category
-    Locate the newly added plugin and click on the 'Activate' link to enable its features.
+* Find the directory titles 'upcoming-events-lists' and upload it and all files within to the plugins directory of your WordPress install (WORDPRESS-DIRECTORY/wp-content/plugins/) [e.g. http://www.yourdomain.com/wp-content/plugins/
+* From your WordPress dashboard, choose 'Installed Plugins' option under the 'Plugins' category
+* Locate the newly added plugin and click on the 'Activate' link to enable its features.
 
 
 == Frequently Asked Questions ==
-Do you have questions or issues with SIS Upcoming Events? [Contact Me](http://sayful.net)
+Do you have questions or issues with SIS Upcoming Events? [Ask for support](http://wordpress.org/support/plugin/upcoming-events-lists)
 
 == Screenshots ==
 1. Screenshot of event widget selection
