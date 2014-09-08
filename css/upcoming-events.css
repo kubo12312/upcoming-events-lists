@@ -1,0 +1,35 @@
+.sis_event_entry{
+	margin-bottom: 21px;
+}
+
+.event_image {
+	border: 0 none;
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+.sis_event_entry h4{
+	margin-bottom: 3px;
+}
+
+.sis_event_entry h4 a.sis_event_title {
+  text-decoration: none;
+  padding: 0;
+}
+
+.sis_event_entry .event_venue{
+	font-size: 0.9em;
+	font-weight: 100;
+	font-style: italic;
+}
+
+.sis_event_entry p{
+	margin-bottom: 3px !important;
+	font-weight: 100;
+}
+
+.sis_event_entry .sis_event_date{
+	font-size: 10px;
+	font-weight: 600;
+}
