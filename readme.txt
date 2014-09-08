@@ -3,7 +3,7 @@ Contributors: sayful
 Tags: calendar, events, feed, upcoming events, calendear widget
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,3 +63,7 @@ Do you have questions or issues with SIS Upcoming Events? [Ask for support](http
 == CONTACT ==
 
 [Sayful Islam](http://www.sayful.net)
+
+== Upgrade Notice ==
+
+Upgrade your plugin to get latest features.
