@@ -127,7 +127,7 @@ class Upcoming_Events extends WP_Widget {
 						<span class="event_venue">at <?php echo $event_venue; ?></span>
 					</h4>
 					<?php the_excerpt(); ?>
-					<time class="sis_event_date"><?php echo date( 'F d, Y', $event_start_date ); ?> &ndash; <?php echo date( 'F d, Y', $event_end_date ); ?></time>
+					<time class="sis_event_date"><?php echo date_i18n( get_option( 'date_format' ), $event_start_date ); ?> &ndash; <?php echo date_i18n( get_option( 'date_format' ), $event_end_date ); ?></time>
 				</li>
 			<?php endwhile; ?>
 		</ul>

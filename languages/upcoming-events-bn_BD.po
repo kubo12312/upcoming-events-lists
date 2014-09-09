@@ -1,0 +1,130 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Upcoming Events Lists\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/upcoming-events-lists\n"
+"POT-Creation-Date: 2014-09-08 17:17:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-09-08 23:37+0600\n"
+"Last-Translator: Sayful Islam <sayful.islam001@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: Bengali\n"
+
+#: upcoming-events.php:16
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr "ঘটনাবলী"
+
+#: upcoming-events.php:17
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr "ঘটনা"
+
+#: upcoming-events.php:18
+msgid "Event"
+msgstr "ঘটনা"
+
+#: upcoming-events.php:19
+msgid "Parent Event:"
+msgstr "মূল ঘটনা:"
+
+#: upcoming-events.php:20
+msgid "All Events"
+msgstr "সব ঘটনা"
+
+#: upcoming-events.php:21
+msgid "View Event"
+msgstr "ইভেন্ট দেখুন"
+
+#: upcoming-events.php:22
+msgid "Add New Event"
+msgstr "নতুন ইভেন্ট যোগ করুন"
+
+#: upcoming-events.php:23
+msgid "Add New"
+msgstr "নতুন যোগ করুন"
+
+#: upcoming-events.php:24
+msgid "Edit Event"
+msgstr "ইভেন্ট সম্পাদনা"
+
+#: upcoming-events.php:25
+msgid "Update Event"
+msgstr "ঘটনা হালনাগাদ করন"
+
+#: upcoming-events.php:26
+msgid "Search Event"
+msgstr "ঘটনা অনুসন্ধান"
+
+#: upcoming-events.php:27
+msgid "Not found"
+msgstr "পওয়া যায় নি"
+
+#: upcoming-events.php:28
+msgid "Not found in Trash"
+msgstr "ট্রাস্টে পাওয়া যায় নি"
+
+#: upcoming-events.php:31
+msgid "event"
+msgstr "ঘটনা"
+
+#: upcoming-events.php:32
+msgid "A list of upcoming events"
+msgstr "আসন্ন ঘটনার একটি তালিকা"
+
+#: upcoming-events.php:60
+msgid "Upload Event Image"
+msgstr "ইভেন্ট চিত্র আপলোড করুন"
+
+#: upcoming-events.php:79
+msgid "Event Info"
+msgstr "ইভেন্ট তথ্য"
+
+#: upcoming-events.php:105
+msgid "Event Start Date:"
+msgstr "ইভেন্ট শুরুর তারিখ:"
+
+#: upcoming-events.php:109
+msgid "Event End Date:"
+msgstr "ইভেন্ট শেষের তারিখ:"
+
+#: upcoming-events.php:113
+msgid "Event Venue:"
+msgstr "ইভেন্ট স্থান"
+
+#: upcoming-events.php:191
+msgid "Start Date"
+msgstr "শুরুর তারিখ"
+
+#: upcoming-events.php:192
+msgid "End Date"
+msgstr "শেষ তারিখ"
+
+#: upcoming-events.php:193
+msgid "Venue"
+msgstr "স্থান"
+
+#: widget-upcoming-events.php:14
+msgid "A widget to display a list of upcoming events"
+msgstr "একটি উইজেট যা আসন্ন ঘটনার একটি তালিকা প্রদর্শন করে ।"
+
+#: widget-upcoming-events.php:19
+msgid "Upcoming Events"
+msgstr "আসন্ন ইভেন্টস"
+
+#: widget-upcoming-events.php:40
+msgid "Title"
+msgstr "শিরোনাম"
+
+#: widget-upcoming-events.php:44
+msgid "Number of events to show"
+msgstr "ইভেন্টের সংখ্যা প্রদর্শন"
+
+#: widget-upcoming-events.php:135
+msgid "View All Events"
+msgstr "সব ঘটনা দেখুন"

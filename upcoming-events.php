@@ -6,8 +6,18 @@
  * Version: 1.1
  * Author: Sayful Islam
  * Author URI: http://sayful.net
+ * Text Domain: upcoming-events
+ * Domain Path: /languages/
  * License: GPL2
  */
+/**
+ * Load plugin textdomain.
+ */
+function sis_upcoming_events_load_textdomain() {
+  load_plugin_textdomain( 'upcoming-events', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+}
+add_action( 'plugins_loaded', 'sis_upcoming_events_load_textdomain' );
+
 
 // Register Custom Post Type
 function sis_custom_post_type() {
