@@ -2,7 +2,7 @@
 Contributors: sayful
 Tags: calendar, events, feed, upcoming events, calendear widget
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -10,25 +10,26 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A WordPress plugin to show a list of upcoming events on the front-end.
 
 == Description ==
-A WordPress plugin to show a list of upcoming events on the front-end. When you install this plugin, you will find a new widget called "Upcoming Events" at WordPress admin under Appearance >> Widgets. And you will also find a new custom post called "Events" where you can select your event starting and closing date, event venue, event title, event description.
+A WordPress plugin to show a list of upcoming events on the front-end. 
+When you install this plugin, you will find a new widget called "Upcoming Events" at WordPress admin under Appearance >> Widgets. And you will also find a new custom post called "Events" where you can select your event starting and closing date, event venue, event title, event description.
 
 == Installation ==
 Installing the plugins is just like installing other WordPress plugins. If you don't know how to install plugins, please review the two options below:
 
-Install by Search
+= Install by Search =
 
 * From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
 * Search for 'upcoming-events-lists' a plugin will come called 'Upcoming Events Lists' and Click 'Install Now' and confirm your installation by clicking 'ok'
 * The plugin will download and install. Just click 'Activate Plugin' to activate it.
 
-Install by ZIP File
+= Install by ZIP File =
 
 * From your WordPress dashboard, choose 'Add New' under the 'Plugins' category.
 * Select 'Upload' from the set of links at the top of the page (the second link)
 * From here, browse for the zip file included in your plugin titled 'upcoming-events-lists.zip' and click the 'Install Now' button
 * Once installation is complete, activate the plugin to enable its features.
 
-Install by FTP
+= Install by FTP =
 
 * Find the directory titles 'upcoming-events-lists' and upload it and all files within to the plugins directory of your WordPress install (WORDPRESS-DIRECTORY/wp-content/plugins/) [e.g. http://www.yourdomain.com/wp-content/plugins/
 * From your WordPress dashboard, choose 'Installed Plugins' option under the 'Plugins' category
