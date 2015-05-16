@@ -7,14 +7,23 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A WordPress plugin to show a list of upcoming events on the front-end.
+A WordPress plugin to show a list of upcoming events on the front-end as widget.
 
 == Description ==
-A WordPress plugin to show a list of upcoming events on the front-end. 
+A WordPress plugin to show a list of upcoming events on the front-end as widget.
 
-When you install this plugin, you will find a new widget called "Upcoming Events" at WordPress admin under Appearance >> Widgets.
+= Usage =
 
-And you will also find a new custom post called "Events" where you can select your event starting and closing date, event venue, event title, event description.
+After installing and activating the plugins
+
+<ul>
+	<li>Go to <strong>Admin Dashboard -> Event -> Add New</strong> and</li>
+	<li>Create your upcoming event with event title, event description, event starting date , event closing date and event venue. Then</li>
+	<li>Go to <strong>Admin Dashboard -> Appearance -> Widgets</strong> and</li>
+	<li>Find <strong>"Upcoming Events"</strong> and click on it.</li>
+	<li>Select at which widget area you want to show it. and click <strong>Add Widget</strong></li>
+	<li>Give widget title and choose the number of events you want to show and click <strong>Save</strong></li>
+</ul>
 
 == Installation ==
 Installing the plugins is just like installing other WordPress plugins. If you don't know how to install plugins, please review the two options below:

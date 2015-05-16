@@ -3,7 +3,7 @@
  * Plugin Name: Upcoming Events Lists
  * Plugin URI: http://wordpress.org/plugins/upcoming-events-lists
  * Description: A plugin to show a list of upcoming events on the front-end.
- * Version: 1.2
+ * Version: 1.3.0
  * Author: Sayful Islam
  * Author URI: http://sayful.net
  * Text Domain: upcoming-events
