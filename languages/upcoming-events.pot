@@ -1,109 +1,114 @@
-# Copyright (C) 2014 
-# This file is distributed under the same license as the  package.
+# Copyright (C) 2015 Upcoming Events Lists
+# This file is distributed under the same license as the Upcoming Events Lists package.
 msgid ""
 msgstr ""
-"Project-Id-Version:  \n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tag/upcoming-events-lists\n"
-"POT-Creation-Date: 2014-09-08 17:17:36+00:00\n"
+"Project-Id-Version: Upcoming Events Lists 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/upcoming-events-"
+"lists\n"
+"POT-Creation-Date: 2015-05-16 04:08:15+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: upcoming-events.php:16
+#: upcoming-events-lists.php:71
 msgctxt "Post Type General Name"
 msgid "Events"
 msgstr ""
 
-#: upcoming-events.php:17
+#: upcoming-events-lists.php:72
 msgctxt "Post Type Singular Name"
 msgid "Event"
 msgstr ""
 
-#: upcoming-events.php:18
+#: upcoming-events-lists.php:73
 msgid "Event"
 msgstr ""
 
-#: upcoming-events.php:19
+#: upcoming-events-lists.php:74
 msgid "Parent Event:"
 msgstr ""
 
-#: upcoming-events.php:20
+#: upcoming-events-lists.php:75
 msgid "All Events"
 msgstr ""
 
-#: upcoming-events.php:21
+#: upcoming-events-lists.php:76
 msgid "View Event"
 msgstr ""
 
-#: upcoming-events.php:22
+#: upcoming-events-lists.php:77
 msgid "Add New Event"
 msgstr ""
 
-#: upcoming-events.php:23
+#: upcoming-events-lists.php:78
 msgid "Add New"
 msgstr ""
 
-#: upcoming-events.php:24
+#: upcoming-events-lists.php:79
 msgid "Edit Event"
 msgstr ""
 
-#: upcoming-events.php:25
+#: upcoming-events-lists.php:80
 msgid "Update Event"
 msgstr ""
 
-#: upcoming-events.php:26
+#: upcoming-events-lists.php:81
 msgid "Search Event"
 msgstr ""
 
-#: upcoming-events.php:27
+#: upcoming-events-lists.php:82
 msgid "Not found"
 msgstr ""
 
-#: upcoming-events.php:28
+#: upcoming-events-lists.php:83
 msgid "Not found in Trash"
 msgstr ""
 
-#: upcoming-events.php:31
+#: upcoming-events-lists.php:86
 msgid "event"
 msgstr ""
 
-#: upcoming-events.php:32
+#: upcoming-events-lists.php:87
 msgid "A list of upcoming events"
 msgstr ""
 
-#: upcoming-events.php:60
+#: upcoming-events-lists.php:111
 msgid "Upload Event Image"
 msgstr ""
 
-#: upcoming-events.php:79
+#: upcoming-events-lists.php:116
 msgid "Event Info"
 msgstr ""
 
-#: upcoming-events.php:105
+#: upcoming-events-lists.php:140 upcoming-events-lists.php:235
 msgid "Event Start Date:"
 msgstr ""
 
-#: upcoming-events.php:109
+#: upcoming-events-lists.php:144 upcoming-events-lists.php:236
 msgid "Event End Date:"
 msgstr ""
 
-#: upcoming-events.php:113
+#: upcoming-events-lists.php:148
 msgid "Event Venue:"
 msgstr ""
 
-#: upcoming-events.php:191
+#: upcoming-events-lists.php:196
 msgid "Start Date"
 msgstr ""
 
-#: upcoming-events.php:192
+#: upcoming-events-lists.php:197
 msgid "End Date"
 msgstr ""
 
-#: upcoming-events.php:193
+#: upcoming-events-lists.php:198
 msgid "Venue"
+msgstr ""
+
+#: upcoming-events-lists.php:237
+msgid "Event Vanue:"
 msgstr ""
 
 #: widget-upcoming-events.php:14
@@ -124,4 +129,24 @@ msgstr ""
 
 #: widget-upcoming-events.php:135
 msgid "View All Events"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Upcoming Events Lists"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/upcoming-events-lists"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to show a list of upcoming events on the front-end."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sayful Islam"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://sayful.net"
 msgstr ""
