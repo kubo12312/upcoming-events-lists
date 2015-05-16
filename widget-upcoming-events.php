@@ -77,7 +77,10 @@ class Upcoming_Events extends WP_Widget {
 	public function widget( $args, $instance ) {
 
 		extract( $args );
-		$title = apply_filters( 'widget_title', $instance['title'] );
+
+		if(isset($instance['title'])){
+			$title = apply_filters( 'widget_title', $instance['title'] );
+		}
 
 		//Preparing the query for events
 		$meta_quer_args = array(
@@ -91,7 +94,7 @@ class Upcoming_Events extends WP_Widget {
 
 		$query_args = array(
 			'post_type'				=>	'event',
-			'posts_per_page'		=>	$instance['number_events'],
+			'posts_per_page'		=>	isset($instance['number_events']) ? $instance['number_events'] : 5,
 			'post_status'			=>	'publish',
 			'ignore_sticky_posts'	=>	true,
 			'meta_key'				=>	'event-start-date',
@@ -104,7 +107,7 @@ class Upcoming_Events extends WP_Widget {
 
 		//Preparing to show the events
 		echo $before_widget;
-		if ( $title ) {
+		if ( isset($title) && $title ) {
 			echo $before_title . $title . $after_title;
 		}
 		?>
