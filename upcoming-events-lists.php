@@ -93,7 +93,7 @@ class Upcoming_Events_Lists {
 			'show_in_menu'        => true,
 			'show_in_nav_menus'   => true,
 			'show_in_admin_bar'   => true,
-			'menu_position'       => 35,
+			'menu_position'       => 5,
 			'menu_icon'           => 'dashicons-calendar-alt',
 			'can_export'          => true,
 			'has_archive'         => true,
