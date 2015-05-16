@@ -59,6 +59,10 @@ Do you have questions or issues with SIS Upcoming Events? [Ask for support](http
 
 == Changelog ==
 
+= version 1.3.0 =
+
+* Added event start date, end date and venue at viewing single page
+
 = version 1.2 =
 
 * Making it translation ready.
