@@ -3,7 +3,7 @@
  * Plugin Name: Upcoming Events Lists
  * Plugin URI: http://wordpress.org/plugins/upcoming-events-lists
  * Description: A plugin to show a list of upcoming events on the front-end.
- * Version: 1.3.0
+ * Version: 1.3.1
  * Author: Sayful Islam
  * Author URI: http://sayful.net
  * Text Domain: upcoming-events
@@ -234,7 +234,7 @@ class Upcoming_Events_Lists {
 			$event .= '<tr>';
 			$event .= '<td><strong>'.__('Event Start Date:', 'upcoming-events').'</strong><br>'.date_i18n( get_option( 'date_format' ), $event_start_date ).'</td>';
 			$event .= '<td><strong>'.__('Event End Date:', 'upcoming-events').'</strong><br>'.date_i18n( get_option( 'date_format' ), $event_end_date ).'</td>';
-			$event .= '<td><strong>'.__('Event Vanue:', 'upcoming-events').'</strong><br>'.$event_venue.'</td>';
+			$event .= '<td><strong>'.__('Event Venue:', 'upcoming-events').'</strong><br>'.$event_venue.'</td>';
 			$event .= '</tr>';
 			$event .= '</table>';
 
